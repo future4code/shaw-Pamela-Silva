@@ -1,4 +1,4 @@
-function calculaSalario(qtdeCarrosVendidos,valorTotalVendas) {
+'''function calculaSalario(qtdeCarrosVendidos,valorTotalVendas) {
 /*Escreva seu código aqui*/
  const  valorDosCarros = qtdeCarrosVendidos * valorTotalVendas;
  const salarioFixo = 2000.00 + 100
@@ -6,4 +6,4 @@ function calculaSalario(qtdeCarrosVendidos,valorTotalVendas) {
  let salarioTotal = salarioFixo + CarrosVendidos
  return salarioTotal
  console.log(salarioTotal)
-}
+}'''
